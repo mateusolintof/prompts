@@ -1,0 +1,123 @@
+﻿// Prompt: Escrita de Artigos para LinkedIn - v2  
+
+
+# OBJETIVO  
+Crie um artigo para o LinkedIn sobre {{tema}}, estruturado de forma envolvente, clara e persuasiva. O artigo deve capturar a atenção do leitor logo no início, desenvolver um raciocínio lógico e encerrar com uma chamada à ação.  
+
+
+# ESTRUTURA DO ARTIGO  
+Siga a seguinte organização para garantir máxima eficiência na comunicação:  
+
+
+## Etapa um: Abertura impactante  
+- Comece com uma frase que prenda a atenção do leitor.  
+- Pode ser um dado estatístico, uma pergunta provocativa ou uma experiência pessoal.  
+- Gere curiosidade para que o leitor continue lendo.  
+
+
+## Etapa dois: Desenvolvimento com conexão lógica  
+- Apresente um problema ou uma reflexão central relacionada ao tema.  
+- Use uma estrutura clara: problema → contexto → solução.  
+- Inclua exemplos reais ou insights baseados em experiências do mercado.  
+
+
+## Etapa três: Conclusão e Chamada para Ação  
+- Resuma os principais aprendizados de forma objetiva.  
+- Incentive a interação do leitor (comentários, compartilhamentos, reflexões).  
+- Finalize com uma pergunta ou provocação para manter o engajamento.  
+
+
+---
+
+
+
+
+# EXEMPLOS DE ARTIGOS 
+
+
+## Exemplo 1 - Estilo Inspiracional  
+
+
+Título: A única habilidade que diferencia os grandes líderes  
+
+
+Abertura:  
+"Você já percebeu que algumas pessoas parecem ter um magnetismo natural? Líderes que inspiram, que fazem os outros quererem seguir seus passos? O que eles têm de especial?"  
+
+
+Desenvolvimento:  
+- Muitas vezes, associamos liderança a inteligência, carisma ou experiência. Mas há uma única habilidade que supera todas elas: a capacidade de **ouvir ativamente**.  
+- Estudos mostram que líderes que praticam a escuta ativa aumentam o engajamento da equipe em 40%.  
+- Grandes líderes como Nelson Mandela e Steve Jobs eram mestres na arte de fazer perguntas e ouvir sem interromper.  
+
+
+Conclusão:  
+"Se você quer se tornar um líder melhor, comece com algo simples: **fale menos, ouça mais**."  
+
+
+Chamada para Ação:  
+"Quando foi a última vez que você ouviu alguém sem pensar na sua resposta? Me conta nos comentários!"  
+
+
+---
+
+
+## Exemplo 2 - Estilo Técnico  
+
+
+Título: Como a Inteligência Artificial está redefinindo a produtividade  
+
+
+Abertura:  
+"Estudos recentes mostram que profissionais que utilizam IA aumentam sua produtividade em até 35%. Mas a questão não é se a IA pode fazer seu trabalho — e sim como você pode usá-la para trabalhar melhor."  
+
+
+Desenvolvimento:  
+- A automação está transformando três pilares da produtividade: **gestão de tempo, tomada de decisão e criatividade**.  
+- Ferramentas como ChatGPT, Notion AI e GitHub Copilot já estão otimizando o fluxo de trabalho de milhares de profissionais.  
+- Empresas que treinam seus funcionários para colaborar com IA estão liderando a inovação no mercado.  
+
+
+Conclusão:  
+"A IA não veio para substituir pessoas, mas para impulsionar quem sabe usá-la. Você está preparado para essa mudança?"  
+
+
+Chamada para Ação:  
+"Quais ferramentas de IA você já experimentou? Compartilhe sua experiência nos comentários!"  
+
+
+---
+
+
+## Exemplo 3 - Estilo Persuasivo  
+
+
+Título: Home office realmente aumenta a produtividade?  
+
+
+Abertura:  
+"Antes da pandemia, apenas 5% das empresas adotavam home office. Hoje, mesmo com a possibilidade de retorno ao presencial, muitas equipes não querem voltar. Mas será que o trabalho remoto realmente funciona?"  
+
+
+Desenvolvimento:  
+- Pesquisas apontam que trabalhadores remotos são **25% mais produtivos**, desde que tenham um ambiente estruturado.  
+- Os maiores desafios do home office são a **falta de rotina, distrações e isolamento social**.  
+- Empresas que adotam **horários flexíveis, metas bem definidas e reuniões estratégicas** estão conseguindo maximizar a produtividade de suas equipes.  
+
+
+Conclusão:  
+"O home office não é sobre onde você trabalha, mas sobre **como você organiza seu dia para entregar o melhor resultado**."  
+
+
+Chamada para Ação:  
+"Você acredita que trabalha melhor de casa ou no escritório? Deixe sua opinião nos comentários!"  
+
+
+---
+
+
+# INSTRUÇÕES DE GERAÇÃO  
+1 - Use um tom autêntico, profissional e acessível.  
+2 - Adapte o conteúdo para a persona do público-alvo no LinkedIn.  
+3 - Priorize frases curtas e diretas para facilitar a leitura online.  
+4 - Se necessário, inclua insights baseados em pesquisas ou tendências do setor.
